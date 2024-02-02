@@ -11,5 +11,4 @@ Create your own free mongoDB cluster to use this library application, click on '
 Create two terminals, one for backend and one for frontend.Type _npm run dev_ on both and ctrl+click on the frontend link.
 
 
-https://ibb.co/n7cgcfm
-![picture of MERN library app](https://ibb.co/n7cgcfm)
+<a href="https://ibb.co/n7cgcfm"><img src="https://i.ibb.co/48TmTMt/libApp.png" alt="libApp" border="0"> front end </a>
